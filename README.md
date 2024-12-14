@@ -32,7 +32,7 @@ This is a personal portfolio website designed to showcase projects, skills, and 
 
 2. Navigate to the project directory:
    ```bash
-   cd Portfolio
+   cd Portfolio_Website
    ```
 
 3. Open the `index.html` file in your browser to view the portfolio.
